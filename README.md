@@ -1,4 +1,5 @@
-# Python programs for GPU computing of phase-field simulations
+# Benchmark problems for CHiMaD phase-field workshop XIV
+This repository shares Python programs for GPU computing of phase-field simulations
 
 ## Benchmark #1
 1. Cahn-Hilliard-2d-Spectral.ipynb<br>
