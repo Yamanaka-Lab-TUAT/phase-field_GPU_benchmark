@@ -1,5 +1,6 @@
 # Python codes for CHiMaD phase-field workshop XIV
-This repository shares Python programs for GPU computing of phase-field simulations
+This repository shares Python codes for GPU computing of phase-field simulations. 
+All the codes can be executed on Google Colaboratory. 
 
 ## Benchmark #1
 1. Cahn-Hilliard-2d-Spectral.ipynb<br>
