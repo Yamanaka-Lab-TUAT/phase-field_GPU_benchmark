@@ -1,4 +1,4 @@
-# Benchmark problems for CHiMaD phase-field workshop XIV
+# Python codes for CHiMaD phase-field workshop XIV
 This repository shares Python programs for GPU computing of phase-field simulations
 
 ## Benchmark #1
