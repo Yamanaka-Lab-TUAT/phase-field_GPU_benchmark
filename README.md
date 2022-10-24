@@ -1,4 +1,4 @@
-# Python codes for CHiMaD phase-field workshop XIV
+# Python codes GPU computing of phase-field models
 This repository shares Python codes for GPU computing of phase-field simulations. 
 All the codes can be executed on Google Colaboratory. 
 
