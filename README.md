@@ -1,6 +1,7 @@
-# Python codes GPU computing of phase-field models
+# Python codes for GPU computing of phase-field models
 This repository shares Python codes for GPU computing of phase-field simulations. 
 All the codes can be executed on Google Colaboratory. 
+Please note that these codes are under development. Please let us know if you find any mistakes. 
 
 ## Benchmark #1
 1. Cahn-Hilliard-2d-Spectral.ipynb<br>
